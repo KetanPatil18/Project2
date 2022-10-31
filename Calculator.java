@@ -14,6 +14,11 @@ public int substract()
         c=b-a;  
 	return c;
 }
+public int multiply()
+{
+        c=a*b;
+        return c;
+}
 public int div()
 { 
         c=b-a;  
