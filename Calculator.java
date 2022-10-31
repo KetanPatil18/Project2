@@ -9,6 +9,11 @@ public int sum()
         c=a+b;  
 	return c;
 }
+public int substract()
+{ 
+        c=b-a;  
+	return c;
+}
 public int div()
 { 
         c=b-a;  
